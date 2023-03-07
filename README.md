@@ -23,15 +23,15 @@ Junior Java Developer.
 * [Buysell](https://github.com/dmitrKuznetsov/buysell)
 
 ### ✨ Work experience
-*   Digital signal processing. 
+*   <ins>**Digital signal processing.**</ins> \
 Research, modeling, experimental verification and low-level implementation of speech enhancement and acoustic noise reduction algorithms.
-*   Embeded development
+*   <ins>**Embeded development**</ins> \
 Developing programs for ARM embedded family. Code optimisation.
-*   Descktop development
+*   <ins>**Descktop development**</ins> \
 Developing QT GUI for voice communication system (VCS) management. Using SNMP network protocol for communication with other devices.
-*   Fullstuck development
+*   <ins>**Fullstuck development**</ins> \
 React & Redux frontend for VCS management. Node Js backend.
-*   Quality assurance
+*   <ins>**Quality assurance**</ins> \
 Unit and e2e (Cypress) testing.
 
 ### 📚 Education
