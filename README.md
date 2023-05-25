@@ -1,6 +1,6 @@
 ### Hi, I'm Dmitry 👋
 
-Junior Java Developer. 
+Junior Developer. 
 [PDF Resume.](https://drive.google.com/file/d/1uJ5keqvJpsX8bSyWkTPXBOr0eUjUAum4/view?usp=sharing)
 
 
