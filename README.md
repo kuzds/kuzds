@@ -5,13 +5,14 @@ Java Developer.
 
 
 ### 🛠 Technical Stack
+* OOP/AOP, algorithms and data structures
 * Java SE
-* MySQL, PostgreSQL, Flyway, myBatis
-* Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Security and so on...
-* REST, Web Services
-* AOP
-* Apache Kafka
-* GitHub/GitLab, Maven, Docker
+* GitHub/GitLab, Maven/Gradle, Docker
+* MySQL/PostgreSQL/Oracle/H2, Flyway
+* Spring Framework, Spring Boot, Spring Web/Data/Security/Cloud and so on...
+* Web Services: REST/SOAP
+* Camunda 8, Apache Camel
+* ActiveMQ, RabbitMQ, Apache Kafka
 * Unit, Integration and e2e testing
 * JS/HTML/CSS, React
 
